@@ -4,9 +4,11 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Right now I am listening to the biography of Elon Musk. '
-datePublished: '2016-07-22T06:05:14.414Z'
-dateModified: '2016-07-22T06:04:07.497Z'
+description: >-
+  Right now I am listening to the biography of Elon Musk. Wildly inspiring. I am
+  realizing that dreaming to the moon is so much smaller than what could be. 
+datePublished: '2016-07-22T06:07:43.693Z'
+dateModified: '2016-07-22T06:07:37.152Z'
 title: ''
 author: []
 via: {}
@@ -18,4 +20,4 @@ url: so-excited-to-see-what-this-can-do/index.html
 _type: Article
 
 ---
-Right now I am listening to the biography of Elon Musk.
+Right now I am listening to the biography of Elon Musk. Wildly inspiring. I am realizing that dreaming to the moon is so much smaller than what could be.
