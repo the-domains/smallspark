@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Right now I am listening to the biography of Elon Musk. Wildly inspiring. I am
   realizing that dreaming to the moon is so much smaller than what could be. 
-datePublished: '2016-07-22T06:08:00.685Z'
-dateModified: '2016-07-22T06:07:50.918Z'
+datePublished: '2016-07-22T06:08:53.052Z'
+dateModified: '2016-07-22T06:08:10.598Z'
 title: ''
 author: []
 via: {}
