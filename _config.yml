@@ -1,0 +1,28 @@
+name: SmallSpark
+favicon: null
+layout_spectrum: 0.5790836133528501
+typography_spectrum: 0.6565754027105868
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.12424128432758152
+  lightness: 0.1748437681235373
+  saturation: 0.3129380166064948
+  rhythmicContrast: 0.12634458881802857
+purpose: []
