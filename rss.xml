@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SmallSpark]]></title>
-        <description><![CDATA[SmallSpark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Small Spark]]></title>
+        <description><![CDATA[A Small Spark]]></description>
+        <link>https://thegrid.ai/smallspark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:57:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 06:02:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/smallspark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>So excited to see what this can do.</p>]]></description>
+            <link>https://thegrid.ai/smallspark/so-excited-to-see-what-this-can-do/index.html</link>
+            <guid isPermaLink="false">6b3fb239-5479-433e-bd02-af31e46d24c3</guid>
+            <pubDate>Fri, 22 Jul 2016 06:02:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Here I Am.</p>]]></description>
-            <link>undefinedhere-i-am/index.html</link>
+            <link>https://thegrid.ai/smallspark/here-i-am/index.html</link>
             <guid isPermaLink="false">2aebd11f-44a3-4563-801b-8c34bcfd9713</guid>
             <pubDate>Fri, 22 Jul 2016 05:57:09 GMT</pubDate>
         </item>
