@@ -4,18 +4,18 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: So excited to see what this can do.
-datePublished: '2016-07-22T06:02:28.431Z'
-dateModified: '2016-07-22T06:02:23.775Z'
-authors: []
-publisher: {}
+description: 'Right now I am listening to the biography of Elon Musk. '
+datePublished: '2016-07-22T06:05:14.414Z'
+dateModified: '2016-07-22T06:04:07.497Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-07-22-so-excited-to-see-what-this-can-do.md
+authors: []
+publisher: {}
+starred: false
 url: so-excited-to-see-what-this-can-do/index.html
 _type: Article
 
 ---
-So excited to see what this can do.
+Right now I am listening to the biography of Elon Musk.
