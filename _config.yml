@@ -2,6 +2,7 @@ name: SmallSpark
 favicon: null
 layout_spectrum: 0.49545
 typography_spectrum: 0.76052
+title: A Small Spark
 cta:
   domain: null
   bucket: null
